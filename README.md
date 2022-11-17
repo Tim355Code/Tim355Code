@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tim355Code
 - 👀 I’m interested in Java (Bukkit), C# (Unity)
-- 🌱 I’m currently learning C, Java and Pythin
+- 🌱 I’m currently learning C, Java and Python
 - 📫 You can reach me on my email: tmerk355@gmail.com
 
 <!---
