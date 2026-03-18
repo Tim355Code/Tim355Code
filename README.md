@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Tim355Code
-- 👀 I’m interested in Java (Bukkit), C# (Unity)
-- 🌱 I’m currently learning C, Java and Python
-- 📫 You can reach me on my email: tmerk355@gmail.com
+# Hi I'm Tim_M
 
-<!---
-Tim355Code/Tim355Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a hobbyist developer mainly working with Unity (C#), currently focusing on Touhou-inspired projects.
+
+I also mess with:
+- Java (Fabric / Bukkit)
+- Python
+
+## What I do
+- Unity game development (Touhou-style projects)
+- Minecraft modding (Fabric)
+- Smaller pointless projects (like TI-Uno)
+
+## Currently
+- Working on a bigger indie game called Touhou SSP.
+- Exploring lower-level stuff with C.
+
+## Contact
+- Email: tmerk355@gmail.com
+- Discord: tim_m_
